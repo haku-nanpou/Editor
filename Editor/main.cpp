@@ -3,7 +3,6 @@
 // main.cpp
 //
 //-----------
-
 #include "define.h"
 #include "input.h"
 #include <iostream>
